@@ -69,3 +69,23 @@ footer{
     width: 80%;
     border-radius: 30px;
 }
+.navbar{
+    background-color:black;
+    border-radius: 10px;
+}
+.navbar ul{
+    overflow: auto;
+
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    padding: 3px 3px;
+    margin: 10px 10px;
+   
+}
+.navbar li a{
+    text-decoration:none;
+    color: white;
+    padding: 3px 3px;
+}
