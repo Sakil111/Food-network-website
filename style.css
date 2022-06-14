@@ -57,12 +57,15 @@ footer{
 }
 .recipe{
     width: 100%;
-    border: 2px solid gray;
-    margin-left: 2%;
-    padding: 10px;
+    border: 2px solid white;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+    margin-left: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
     border-radius: 10px;
+    text-align: center;
 }
 .image-syle{
     width: 80%;
-    border-radius: 20px;
+    border-radius: 30px;
 }
