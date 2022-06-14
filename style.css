@@ -1,0 +1,68 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Tai Heritage Pro', serif;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 18px;
+}
+.flexing-display{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 5%;
+    margin-right: 5%; 
+}
+img{
+    width: 80%;
+    margin: 5%;
+    padding: 5%;
+    border-radius: 10px;
+
+}
+.text-align{
+    padding-top: 100px;
+}
+.link-design{
+    background-image: linear-gradient(orange,yellow);
+    border-radius: 20px;
+    padding: 5px 20px;
+    text-decoration: none;
+}
+.about{
+    background-image: url(images/shapes/7.png);
+}
+.recipies{
+   text-align: center;
+   margin-left: 15%;
+   margin-right: 15%;
+   padding-left: 15%;
+   padding-right: 15%;
+}
+.orange-color{
+    color: orange;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.divide-three{
+    display: flex;
+}
+.recipe{
+    width: 100%;
+    border: 2px solid gray;
+    margin-left: 2%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.image-syle{
+    width: 80%;
+    border-radius: 20px;
+}
